@@ -1,8 +1,2 @@
 classification/__pycache__/
-thesis/thesis.aux
-thesis/thesis.bbl
-thesis/thesis.blg
-thesis/thesis.synctex.gz
-thesis/thesis.toc
-*.log
 utilities/__pycache__/
